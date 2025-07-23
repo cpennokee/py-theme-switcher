@@ -1,0 +1,21 @@
+{
+  "name": "windows-vista",
+  "dpi": "2",
+  "font": "Segoe UI",
+  "font-size": "10",
+  "window-button-ordering-style": "windows",
+  "prefer-dark-theme": "false",
+  "gtk-theme": "Windows-7-2.1",
+  "sound-theme": "Windows 7 Landscape",
+  "icon-theme": "Windows Vista Aero",
+  "cursor-theme": "aero-drop",
+  "cursor-size": "32",
+  "kde-global-theme": "authuiVista",
+  "kde-splash": "authuiVista",
+  "widget-style": "kvantum",
+  "kde-color-scheme": "AeroColorScheme1",
+  "window-decoration-theme": "SMOD",
+  "kvantum-theme": "WindowsVistaKvantum_Aero",
+  "qt-style": "kvantum",
+  "qt-dark-mode": "false"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mac OS Mojave",
+  "dpi": "2",
+  "font": "SF Pro Text",
+  "font-size": "10",
+  "window-button-ordering-style": "mac-os",
+  "prefer-dark-theme": "true",
+  "gtk-theme": "WhiteSur-Dark",
+  "sound-theme": "Modern Minimal UI",
+  "icon-theme": "McMojave-circle-dark",
+  "cursor-theme": "WhiteSur-cursors",
+  "cursor-size": "24",
+  "kde-global-theme": "org.kde.breezedark.desktop",
+  "kde-splash": "Lagtrain",
+  "widget-style": "Oxygen",
+  "kde-color-scheme": "BreezeDark",
+  "window-decoration-theme": "Kdust",
+  "kvantum-theme": "KvMojave",
+  "qt-style": "kvantum-dark",
+  "qt-dark-mode": "true"
+}

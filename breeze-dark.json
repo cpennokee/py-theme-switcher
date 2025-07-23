@@ -1,0 +1,21 @@
+{
+  "name": "breeze-dark",
+  "dpi": "2",
+  "font": "Noto Sans",
+  "font-size": "10",
+  "window-button-ordering-style": "windows",
+  "prefer-dark-theme": "true",
+  "gtk-theme": "Breeze-Dark",
+  "sound-theme": "Ocean",
+  "icon-theme": "breeze-dark",
+  "cursor-theme": "breeze_cursors",
+  "cursor-size": "24",
+  "kde-global-theme": "org.kde.breezedark.desktop",
+  "kde-splash": "Lagtrain",
+  "widget-style": "kvantum-dark",
+  "kde-color-scheme": "BreezeDark",
+  "window-decoration-theme": "Breeze",
+  "kvantum-theme": "KvDark",
+  "qt-style": "kvantum-dark",
+  "qt-dark-mode": "true"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ubuntu",
+  "dpi": "2",
+  "font": "Ubuntu",
+  "font-size": "10",
+  "window-button-ordering-style": "windows",
+  "prefer-dark-theme": "true",
+  "gtk-theme": "Yaru-Orange-dark",
+  "sound-theme": "freedesktop",
+  "icon-theme": "Yaru-dark",
+  "cursor-theme": "Yaru",
+  "cursor-size": "24",
+  "kde-global-theme": "org.kde.breezedark.desktop",
+  "kde-splash": "Lagtrain",
+  "widget-style": "kvantum-dark",
+  "kde-color-scheme": "YaruKdeDark",
+  "window-decoration-theme": "Oxygen",
+  "kvantum-theme": "KvSimplicityDark",
+  "qt-style": "kvantum-dark",
+  "qt-dark-mode": "true"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hyprland",
+  "dpi": "2",
+  "font": "Inter Nerd Font Propo Display",
+  "font-size": "10",
+  "window-button-ordering-style": "windows",
+  "prefer-dark-theme": "true",
+  "gtk-theme": "Graphite-red-Dark",
+  "sound-theme": "Modern Minimal UI",
+  "icon-theme": "Material-Black-Cherry-Numix-FLAT",
+  "cursor-theme": "Bibata-Modern-Ice",
+  "cursor-size": "24",
+  "kde-global-theme": "Nothing",
+  "kde-splash": "Lagtrain",
+  "widget-style": "kvantum-dark",
+  "kde-color-scheme": "Nothing",
+  "window-decoration-theme": "Nothing",
+  "kvantum-theme": "KvFlatRed",
+  "qt-style": "kvantum-dark",
+  "qt-dark-mode": "true"
+}
